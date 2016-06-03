@@ -1,0 +1,20 @@
+{
+    "context": "client",
+    "identifier": "net.BourbonCrow.bcHighlightedBuildings",
+    "display_name": "Highlighted Buildings",
+    "description": "Green: Economic - Blue: Factories - Red: Strategic - Yellow: Defensive - Purple: Titans/Super Weapons -- T2 Buildings have a more intense glow",
+    "author": "Bourbon Crow",
+    "version": "1.2",
+    "build": "86422",
+    "date": "2016/06/02",
+    "forum": "https://forums.uberent.com/threads/rel-highlighted-buildings-bar.57879/#post-1106231",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game",
+        "ui"
+    ],
+    "id": "bcHighlightedBuildings",
+    "icon": "http://pamods.github.io/icons/sirHighlightedBuildings.png",
+    "enabled": true,
+    "priority": 100
+}
